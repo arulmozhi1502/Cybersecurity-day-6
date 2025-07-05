@@ -8,7 +8,7 @@
 ## Tools:
   - https://password.kaspersky.com/
   - https://www.security.org/how-secure-is-my-password/
-  - 
+  - https://bitwarden.com/password-strength/
 
 ## Steps:
 1. Create Multiple Passwords
@@ -25,7 +25,14 @@
       * Feedback (e.g., "Too short", "Good use of symbols", "Your Password will be cracekd")
 3. Record Results
 ||      Password	      ||   Score (%)  ||      Crack Time	      ||                  Tool Feedback                  ||
-  - 123456	                10%	             < 1 second	              Too short, only numbers
-  - hello2025	              35%	             A few seconds	          No symbols or uppercase
-  - H3ll0@Secure!2025	      95%	             Centuries	              Strong - good mix of all character types
-  - MyDogEatsPizza@9am	    90%	             Billions of years	      Strong – good length and complexity
+  - 123456	         -->       10%	    -->         < 1 second	     -->         Too short, only numbers
+  - hello2025	       -->       35%	    -->         A few seconds	   -->       No symbols or uppercase
+  - H3ll0@Secure!2025	  -->    95%	    -->         Centuries	       -->       Strong - good mix of all character types
+  - MyDogEatsPizza@9am	-->    90%	    -->         Billions of years	 -->     Strong – good length and complexity
+
+## Tips for Strong Passwords
+  - Minimum 12 characters
+  - Include: uppercase, lowercase, numbers, special symbols
+  - Avoid using personal info (name, birthday)
+  - Don’t reuse the same password across sites
+  - Use passphrases for easier memorization
